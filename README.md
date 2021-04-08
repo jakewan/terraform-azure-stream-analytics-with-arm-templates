@@ -4,7 +4,7 @@ This project demonstrates managing Azure Stream Analytics jobs and associated re
 
 ## Why?
 
-As of now, support for Azure Stream Analytics compatibility level 1.2 is not supported by the [Terraform Provider for Azure][terraform-provider-for-azure] or the underlying [Azure SDK for Go][azure-sdk-for-go].
+As of now, Azure Stream Analytics compatibility level 1.2 is not supported by the [Terraform Provider for Azure][terraform-provider-for-azure] or the underlying [Azure SDK for Go][azure-sdk-for-go].
 
 [terraform-provider-for-azure]: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs
 [azure-sdk-for-go]: https://github.com/Azure/azure-sdk-for-go
